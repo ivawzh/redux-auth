@@ -116,7 +116,9 @@
     "webpack-dev-server": "1.14.0"
   },
   "peerDependencies": {
-    "react-router-bootstrap": "*"
+    "react-bootstrap": "*",
+    "redux-immutablejs": "*",
+    "react-redux": "*"
   },
   "engines": {
     "node": ">=0.10.32"
